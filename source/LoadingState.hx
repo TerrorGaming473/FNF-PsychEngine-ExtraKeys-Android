@@ -27,7 +27,7 @@ class LoadingState extends MusicBeatState
 	// TO DO: Make this easier
 	
 	var target:FlxState;
-	var stopMusic = false;
+	var stopMusic = false; // test
 	var directory:String;
 	var callbacks:MultiCallback;
 	var targetShit:Float = 0;
